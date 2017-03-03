@@ -17,8 +17,12 @@ namespace text_20170303
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            int i=0;
-            int j=0;
+
+            class Employee
+        {
+            private int i;
+            double d;   // private access by default  
         }
     }
-}
+    }
+
