@@ -18,6 +18,7 @@ namespace text_20170303
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             int i=0;
+            int j=0;
         }
     }
 }
