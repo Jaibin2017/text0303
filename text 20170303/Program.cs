@@ -23,6 +23,7 @@ namespace text_20170303
             private int i;
             double d;   // private access by default  
         }
+            int j;
     }
     }
 
